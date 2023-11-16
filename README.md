@@ -1,5 +1,5 @@
 Hi there 👋
-An undergraduate in Mathematics and Computer Science.✨
+I'm an undergraduate in Mathematics and Computer Science.✨
 
 Current ALX Fullstack Software Engineering Program student.✨
 
