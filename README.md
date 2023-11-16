@@ -13,5 +13,5 @@ email: kitongacarol8@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/carol-kitonga-36bb27280/
 
-Fun Fact :) 
-:) I love singing :)
+Fun Fact: 😄
+I love singing 💫
