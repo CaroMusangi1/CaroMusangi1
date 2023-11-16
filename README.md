@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋
+An undergraduate in Mathematics and Computer Science.✨
 
-<!--
-**CaroMusangi1/CaroMusangi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current ALX Fullstack Software Engineering Program student.✨
 
-Here are some ideas to get you started:
+Passionate in codding and building skills to solve words emerging problems.🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Believes in collaboration and team work.💪
+
+You can find me at :) 😊
+
+email: kitongacarol8@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/carol-kitonga-36bb27280/
+
+Fun Fact :) 
+:) I love singing :)
