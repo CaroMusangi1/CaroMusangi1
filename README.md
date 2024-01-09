@@ -1,7 +1,7 @@
 Hi there 👋
 I'm an undergraduate in Mathematics and Computer Science.✨
 
-Current ALX Fullstack Software Engineering Program student.✨
+Current Fullstack Software Engineering Program student.✨
 
 Passionate in codding and building skills to solve world's emerging problems.🌟
 
