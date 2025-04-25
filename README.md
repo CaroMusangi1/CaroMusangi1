@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Caro Kitonga  
 ✨ An undergraduate in Mathematics and Computer Science  
 
-🌱 Currently pursuing a Fullstack Software Engineering Program  
+🌱 A Fullstack Software Engineering Program-ALX Graduate
 💻 Passionate about coding and building skills to solve the world's emerging problems  
 🤝 Firm believer in collaboration and teamwork  
 
