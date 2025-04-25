@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Caro Kitonga  
 ✨ An undergraduate in Mathematics and Computer Science  
 
-🌱 A Fullstack Software Engineering Program-ALX Graduate 
+🌱 Currently pursuing a Fullstack Software Engineering Program  
 💻 Passionate about coding and building skills to solve the world's emerging problems  
 🤝 Firm believer in collaboration and teamwork  
 
@@ -16,32 +16,31 @@ I love singing 💫
 
 ---
 
-### 🚀 Languages and Tools  
-Here’s what I’ve been working with or exploring:
+### 🚀 Languages and Tools
 
-- **Languages**:  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30"/> Python,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" height="30"/> JavaScript,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.png" width="30" height="30"/> C  
+#### **Languages**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> C  
 
-- **Frontend**:  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30" height="30"/> HTML,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" width="30" height="30"/> CSS  
+#### **Frontend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS  
 
-- **Backend**:  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flask_logo.png" width="30" height="30"/> Flask,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" width="30" height="30"/> Node.js,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30" height="30"/> Express  
+#### **Backend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/> Flask  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> Node.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" style="background-color: white; padding: 2px; border-radius: 5px;"/> Express  
 
-- **Databases**:  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/MySQL_logo.png" width="30" height="30"/> MySQL,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg" width="30" height="30"/> MongoDB  
+#### **Databases**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB  
 
-- **Others**:  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Git-logo.svg" width="30" height="30"/> Git,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" height="30"/> GitHub,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Tux.svg" width="30" height="30"/> Linux,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Visual_Studio_Code_1.35_icon.png" width="30" height="30"/> VS Code  
+#### **Others**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> Linux  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> VS Code  
 
 ---
 
